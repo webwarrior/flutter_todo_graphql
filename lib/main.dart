@@ -1,5 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/foundation.dart';
+import "package:graphql_flutter/graphql_flutter.dart";
+import "services/graphqlConf.dart";
+import "package:example/components/principal.dart";
 
 void main() => runApp(TodoApp(
 
